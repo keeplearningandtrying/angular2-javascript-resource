@@ -3,6 +3,8 @@
 * Javascript functions
   * https://www.codeproject.com/Articles/1130815/Understand-Functions-in-JavaScript
   * https://www.sitepoint.com/demystifying-javascript-closures-callbacks-iifes/
+  * https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/
+  * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
 
 
 * Observable vs. Promise
@@ -27,6 +29,9 @@
   * Angular 2 seed - https://github.com/mgechev/angular-seed.git
   * Sample applications built with Angular 2 - http://angularexpo.com/
 
+
+* REference
+  * https://github.com/pkozlowski-opensource/angular2-education
 
 * Links
   * https://scotch.io/
