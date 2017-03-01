@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <script type="text/javascript">
+        var scope = { state: "IN", startDate: "1900-01-01", endDAte: "9999-12-31" };
+        var state = "IN";
+        var date = "2017-02-28";
+
+
+        function testFunction(a = scope) {
+            if (a.state == state && new Date(date) > new Date(a.startDate) && new Date(date) < new Date(a.endDAte)) {
+                return a.state;
+            } else {
+                return;
+            }
+        };
+    </script>
+</head>
+
+<body>
+    <script type="text/javascript">
+        document.writeln(testFunction(scope));
+        document.writeln(scope.state);
+    </script>
+</body>
+
+</html>
