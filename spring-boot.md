@@ -6,6 +6,8 @@
 
 * Spring Boot Externalized Configuration - https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html
 
+* How WebMvcTest work -https://spring.io/blog/2016/08/30/custom-test-slice-with-spring-boot-1-4
+
 
 ## Test
 * https://github.com/springframeworkguru/blog-spring-mvc-test
