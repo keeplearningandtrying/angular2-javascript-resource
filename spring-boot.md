@@ -15,3 +15,13 @@
 * https://memorynotfound.com/spring-security-spring-ldap-authentication-example/
 
 * https://stackoverflow.com/questions/38675020/testing-security-in-spring-boot-1-4
+https://stackoverflow.com/questions/38168163/setting-up-mockmvc-with-webmvctest-in-spring-boot-1-4-mvc-testing
+
+
+## Examples
+* https://github.com/sivaprasadreddy/springboot-tutorials
+* https://github.com/sivaprasadreddy/springboot-learn-by-example
+* https://github.com/Apress/beg-spring-boot-2
+
+
+
