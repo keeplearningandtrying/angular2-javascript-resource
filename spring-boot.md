@@ -11,3 +11,5 @@
 * https://github.com/springframeworkguru/blog-spring-mvc-test
 * https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-test
 * https://memorynotfound.com/spring-security-spring-ldap-authentication-example/
+
+* https://stackoverflow.com/questions/38675020/testing-security-in-spring-boot-1-4
