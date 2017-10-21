@@ -12,6 +12,8 @@
 * https://developer.okta.com/blog/2017/08/28/developers-guide-to-docker-part-2
 * https://developer.okta.com/blog/2017/10/11/developers-guide-to-docker-part-3
 
+* https://codefresh.io/blog/hello-whale-docker-basics-getting-started-docker/
+
 ## 
 * https://www.slideshare.net/davidcurrie/how-to-containerize-websphere-application-server-traditional-and-why-you-might-want-to
 * https://www.slideshare.net/davidcurrie/ibm-websphere-application-server-traditional-and-docker
