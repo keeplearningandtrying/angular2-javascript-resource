@@ -5,3 +5,8 @@
 * Guide to @ConfigurationProperties in Spring Boot - http://www.baeldung.com/configuration-properties-in-spring-boot
 
 * Spring Boot Externalized Configuration - https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-external-config.html
+
+
+## Test
+* https://github.com/springframeworkguru/blog-spring-mvc-test
+* https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-test
