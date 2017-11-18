@@ -24,5 +24,8 @@ https://stackoverflow.com/questions/38168163/setting-up-mockmvc-with-webmvctest-
 * https://github.com/sivaprasadreddy/springboot-learn-by-example
 * https://github.com/Apress/beg-spring-boot-2
 
+* https://www.codebyamir.com/blog/forgot-password-feature-with-java-and-spring-boot
+* https://github.com/codebyamir/spring-boot-user-account-registration/tree/master/user-account-registration
+* https://www.codebyamir.com/blog/user-account-registration-with-spring-boot
 
 
