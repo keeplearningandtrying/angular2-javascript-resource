@@ -29,3 +29,23 @@ https://stackoverflow.com/questions/38168163/setting-up-mockmvc-with-webmvctest-
 * https://www.codebyamir.com/blog/user-account-registration-with-spring-boot
 
 
+* http://roufid.com/spring-boot-multiple-databases-configuration/
+* https://github.com/RadouaneRoufid/spring-boot/tree/master/spring-boot-multi-database-tutorial
+
+
+* https://github.com/JeffLi1993/springboot-learning-example
+* https://github.com/JeffLi1993/springcloud-learning-example 
+* https://www.bysocket.com/?cat=72
+
+* https://github.com/dyc87112/SpringBoot-Learning
+* https://github.com/dyc87112/SpringCloud-Learning
+* http://blog.didispace.com/
+
+* https://github.com/itmuch/spring-cloud-docker-microservice-book-code
+* https://github.com/itmuch/spring-cloud-docker-microservice-book-code-docker
+
+
+* https://github.com/SpringForAll
+
+
+
