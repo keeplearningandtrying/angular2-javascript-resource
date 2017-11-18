@@ -23,3 +23,8 @@
 * https://springframework.guru/running-spring-boot-in-a-docker-container/
 * https://blog.docker.com/2017/05/spring-boot-development-docker/
 * https://spring.io/guides/gs/spring-boot-docker/
+
+
+##
+* https://blog.frankel.ch/dockerfile-maven-based-github-projects/
+
