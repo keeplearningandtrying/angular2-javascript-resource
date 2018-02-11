@@ -5,6 +5,7 @@
   * https://www.sitepoint.com/demystifying-javascript-closures-callbacks-iifes/
   * https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/
   * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+  * https://www.code-morning.com/immediately-invoked-function-expressions/
 
 
 * Observable vs. Promise
