@@ -28,3 +28,13 @@
 ##
 * https://blog.frankel.ch/dockerfile-maven-based-github-projects/
 
+##
+* Using Docker Data Volume with a MySQL container - https://www.melvinvivas.com/using-docker-data-volume-with-a-mysql-container/
+* MySQL Docker Containers: Understanding the basics - https://severalnines.com/blog/mysql-docker-containers-understanding-basics
+* Docker Container Networking Tutorial - https://examples.javacodegeeks.com/devops/docker/docker-container-networking-tutorial/
+* Networking with standalone containers - https://docs.docker.com/network/network-tutorial-standalone/
+* Docker Volumes and Networks with Compose - https://www.linux.com/learn/docker-volumes-and-networks-compose
+* Use volumes - https://docs.docker.com/storage/volumes/
+* 
+
+
