@@ -10,6 +10,10 @@
 * Full stack testing with Docker Compose - https://blog.pusher.com/full-stack-testing-docker-compose/
 * Todo List Application - End to End Testing in Docker - https://github.com/sazzer/docker-test
 
+* Service Testing with Docker Containers - http://blog.florian-hopf.de/2018/02/service-testing-docker-containers.html 
+
+* Testing Microservices, the sane way - https://medium.com/@copyconstruct/testing-microservices-the-sane-way-9bb31d158c16
+
 
 ## Contract testing
 * Spring Cloud Contract in a polyglot world - https://spring.io/blog/2018/02/13/spring-cloud-contract-in-a-polyglot-world
