@@ -18,3 +18,8 @@
 ## Contract testing
 * Spring Cloud Contract in a polyglot world - https://spring.io/blog/2018/02/13/spring-cloud-contract-in-a-polyglot-world
 * Consumer Driven Contracts with Swagger - https://svenbayer.blog/2018/07/17/cdc-with-swagger/
+
+
+##
+* https://thepracticaldeveloper.com/2017/08/03/microservices-end-to-end-tests-with-cucumber-and-spring-boot/
+* Write BDD Unit Tests with BDDMockito and AssertJ - https://thepracticaldeveloper.com/2018/05/10/write-bdd-unit-tests-with-bddmockito-and-assertj/
