@@ -39,4 +39,6 @@
 * Use volumes - https://docs.docker.com/storage/volumes/
 * Docker Tutorial Series : Part 7 : Data Volumes  - https://rominirani.com/docker-tutorial-series-part-7-data-volumes-93073a1b5b72
 
-
+##
+https://github.com/vishnubob/wait-for-it
+https://dev.to/hugodias/wait-for-mongodb-to-start-on-docker-3h8b
