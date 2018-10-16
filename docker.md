@@ -42,3 +42,4 @@
 ##
 https://github.com/vishnubob/wait-for-it
 https://dev.to/hugodias/wait-for-mongodb-to-start-on-docker-3h8b
+https://github.com/ufoscout/docker-compose-wait
