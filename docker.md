@@ -37,6 +37,6 @@
 * Networking with standalone containers - https://docs.docker.com/network/network-tutorial-standalone/
 * Docker Volumes and Networks with Compose - https://www.linux.com/learn/docker-volumes-and-networks-compose
 * Use volumes - https://docs.docker.com/storage/volumes/
-* 
+* Docker Tutorial Series : Part 7 : Data Volumes  - https://rominirani.com/docker-tutorial-series-part-7-data-volumes-93073a1b5b72
 
 
