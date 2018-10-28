@@ -19,6 +19,8 @@
 * Spring Cloud Contract in a polyglot world - https://spring.io/blog/2018/02/13/spring-cloud-contract-in-a-polyglot-world
 * Consumer Driven Contracts with Swagger - https://svenbayer.blog/2018/07/17/cdc-with-swagger/
 
+* Continuous Integration with Jenkins, Artifactory and Spring Cloud Contract - https://piotrminkowski.wordpress.com/tag/spring-cloud-contract/
+* A practical introduction to Spring Cloud Contract - https://aboullaite.me/a-practical-introduction-to-spring-cloud-contract/
 
 ##
 * https://thepracticaldeveloper.com/2017/08/03/microservices-end-to-end-tests-with-cucumber-and-spring-boot/
