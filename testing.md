@@ -23,3 +23,4 @@
 ##
 * https://thepracticaldeveloper.com/2017/08/03/microservices-end-to-end-tests-with-cucumber-and-spring-boot/
 * Write BDD Unit Tests with BDDMockito and AssertJ - https://thepracticaldeveloper.com/2018/05/10/write-bdd-unit-tests-with-bddmockito-and-assertj/
+* How to use JUnit5 and Spring Cloud Contract - http://antkorwin.com/cloud/spring_cloud_contract_junit5.html
