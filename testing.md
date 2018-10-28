@@ -22,6 +22,8 @@
 * Continuous Integration with Jenkins, Artifactory and Spring Cloud Contract - https://piotrminkowski.wordpress.com/tag/spring-cloud-contract/
 * A practical introduction to Spring Cloud Contract - https://aboullaite.me/a-practical-introduction-to-spring-cloud-contract/
 
+* How to run stub-runner docker image with local repo - https://stackoverflow.com/questions/50858857/how-to-run-stub-runner-docker-image-with-local-repo
+
 ##
 * https://thepracticaldeveloper.com/2017/08/03/microservices-end-to-end-tests-with-cucumber-and-spring-boot/
 * Write BDD Unit Tests with BDDMockito and AssertJ - https://thepracticaldeveloper.com/2018/05/10/write-bdd-unit-tests-with-bddmockito-and-assertj/
