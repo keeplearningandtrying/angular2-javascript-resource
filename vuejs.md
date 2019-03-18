@@ -10,3 +10,4 @@
 
 # Sample
 * https://github.com/fatihunlu/vue-admin-template
+* https://github.com/wandersonpjbkn/vue-mpa-application-example/tree/master
