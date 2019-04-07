@@ -3,3 +3,4 @@
 * https://www.testingexcellence.com/gatling-quick-reference/
 * https://www.testingexcellence.com/gatling-maven-performance-test-framework/
 * https://gatling.io/docs/current/cheat-sheet/
+* https://blog.pragmatists.com/load-testing-with-gatling-io-2a128fccfb3e
