@@ -53,3 +53,96 @@ https://github.com/dockersamples
 
 https://docs.docker.com/samples/
 https://github.com/docker/labs
+
+## Multi-Stage Builds
+https://dzone.com/articles/a-dockerfile-for-maven-based-github-projects
+
+~~~~~~~~~~~~~~~~~~
+FROM alpine/git
+
+WORKDIR /app
+
+RUN git clone https://github.com/spring-projects/spring-petclinic.git (1)
+
+FROM maven:3.5-jdk-8-alpine
+
+WORKDIR /app
+
+COPY --from=0 /app/spring-petclinic /app (2)
+
+RUN mvn install (3)
+
+FROM openjdk:8-jre-alpine
+
+WORKDIR /app
+
+COPY --from=1 /app/target/spring-petclinic-1.5.1.jar /app (4)
+
+CMD ["java -jar spring-petclinic-1.5.1.jar"] (5)
+~~~~~~~~~~~~~~~~
+FROM alpine/git as clone (1)
+
+WORKDIR /app
+
+RUN git clone https://github.com/spring-projects/spring-petclinic.git
+
+FROM maven:3.5-jdk-8-alpine as build (2)
+
+WORKDIR /app
+
+COPY --from=clone /app/spring-petclinic /app (3)
+
+RUN mvn install
+
+FROM openjdk:8-jre-alpine
+
+WORKDIR /app
+
+COPY --from=build /app/target/spring-petclinic-1.5.1.jar /app
+
+CMD ["java -jar spring-petclinic-1.5.1.jar"]
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+FROM alpine/git as clone
+
+ARG url (1)
+
+WORKDIR /app
+
+RUN git clone ${url} (2)
+
+FROM maven:3.5-jdk-8-alpine as build
+
+ARG project (3)
+
+WORKDIR /app
+
+COPY --from=clone /app/${project} /app
+
+RUN mvn install
+
+FROM openjdk:8-jre-alpine
+
+ARG artifactid
+
+ARG version
+
+ENV artifact ${artifactid}-${version}.jar (4)
+
+WORKDIR /app
+
+COPY --from=build /app/target/${artifact} /app
+
+EXPOSE 8080
+
+CMD ["java -jar ${artifact}"] (5)
+
+docker build --build-arg url=https://github.com/spring-projects/spring-petclinic.git\
+
+  --build-arg project=spring-petclinic\
+
+  --build-arg artifactid=spring-petclinic\
+
+  --build-arg version=1.5.1\
+
+  -t nfrankel/spring-petclinic - < Dockerfile
