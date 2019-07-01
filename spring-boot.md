@@ -37,7 +37,6 @@
 * Good book excerpt - http://geek.csdn.net/news/detail/115064
 * Source code - https://github.com/qwfys/code_yunfei
 
-
 * search - http://so.csdn.net/so/search/s.do?q=spring+boot&t=&o=&s=&l=null
 
 
@@ -56,6 +55,7 @@
 
 * https://stackoverflow.com/questions/38675020/testing-security-in-spring-boot-1-4
 * https://stackoverflow.com/questions/38168163/setting-up-mockmvc-with-webmvctest-in-spring-boot-1-4-mvc-testing
+* Spring Boot Testing best practices - https://pivotal.io/application-transformation-recipes/testing/spring-boot-testing-best-practices
 
 
 ## Examples
