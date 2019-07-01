@@ -1,0 +1,1 @@
+* This is the most impressive resume I’ve ever seen—based on my 20 years of hiring and interviewing - https://www.cnbc.com/2019/06/26/most-impressive-resume-ever-based-on-20-years-of-hiring-and-interviewing.html?utm_source=pocket-newtab
