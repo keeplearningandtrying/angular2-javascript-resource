@@ -148,3 +148,5 @@ docker build --build-arg url=https://github.com/spring-projects/spring-petclinic
   -t nfrankel/spring-petclinic - < Dockerfile
 
 * https://blog.frankel.ch/dockerfile-maven-based-github-projects/#gsc.tab=0
+
+* Difference between EXPOSE and publishing ports - https://nickjanetakis.com/blog/docker-tip-59-difference-between-exposing-and-publishing-ports
