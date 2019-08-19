@@ -86,5 +86,7 @@
 
 * https://github.com/SpringForAll
 
+* SPRING BOOT COMMAND LINE RUNNER - https://www.danvega.dev/blog/2017/04/07/spring-boot-command-line-runner/
+
 
 
