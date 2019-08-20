@@ -88,5 +88,6 @@
 
 * SPRING BOOT COMMAND LINE RUNNER - https://www.danvega.dev/blog/2017/04/07/spring-boot-command-line-runner/
 
-
+* How spring boot work - https://www.cnblogs.com/ashleyboy/category/1268516.html
+* How spring boot auto configuration work - https://zhuanlan.zhihu.com/p/52530186
 
