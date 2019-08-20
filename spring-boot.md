@@ -93,6 +93,7 @@
 
 
 * Spring Boot 学习资料汇总 - http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html
+* http://www.ityouknow.com/spring-boot.html
 * https://www.mkyong.com/tutorials/spring-boot-tutorials/
 * https://www.baeldung.com/spring-boot
 
@@ -127,6 +128,9 @@ resources/META-INF/spring.factories
   ## Spring boot annotation
   * https://www.baeldung.com/spring-boot-annotations
   * How java annotation works -https://sylvanassun.github.io/2017/10/15/2017-10-15-JavaAnnotation/#more
+  
+  ## Command runner
+  * http://www.ityouknow.com/springboot/2018/05/03/spring-boot-commandLineRunner.html
   
   
   ## Spring boot interview
