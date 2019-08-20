@@ -106,6 +106,8 @@
 
 ## Auto configuration
 * https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-developing-auto-configuration.html
+* https://sylvanassun.github.io/2016/07/29/2016-07-29-Spring-boot-autoconfigure/ (good)
+* https://sylvanassun.github.io/2018/01/08/2018-01-08-spring_boot_auto_configure/
 * https://www.baeldung.com/spring-boot-custom-auto-configuration
   * https://github.com/eugenp/tutorials/tree/master/spring-boot-autoconfiguration
   
