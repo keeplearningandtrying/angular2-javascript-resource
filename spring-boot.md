@@ -95,3 +95,7 @@
 * Spring Boot 学习资料汇总 - http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html
 * https://www.mkyong.com/tutorials/spring-boot-tutorials/
 * https://www.baeldung.com/spring-boot
+
+* https://www.mkyong.com/spring-boot/spring-boot-configurationproperties-example/
+* https://www.mkyong.com/spring/spring-propertysources-example/
+
