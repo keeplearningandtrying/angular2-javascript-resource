@@ -121,4 +121,7 @@ resources/META-INF/spring.factories
  
   org.springframework.boot.env.EnvironmentPostProcessor
   
+  ## Spring boot annotation
+  * https://www.baeldung.com/spring-boot-annotations
+  
 
