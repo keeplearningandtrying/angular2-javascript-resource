@@ -90,6 +90,9 @@
 
 * How spring boot work - https://www.cnblogs.com/ashleyboy/category/1268516.html
 * How spring boot auto configuration work - https://zhuanlan.zhihu.com/p/52530186
+* Spring boot auto-configuration mystery revealed - https://medium.com/codeshake/spring-boot-auto-configuration-mystery-revealed-d734516dddfb
+* The magic behind the magic: Spring Boot Autoconfiguration - https://aboullaite.me/the-magic-behind-the-magic-spring-boot-autoconfiguration/
+* https://www.slideshare.net/SpringCentral/webinar-spring-boot-under-the-hood-with-nicholas-frankel
 
 
 * Spring Boot 学习资料汇总 - http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html
