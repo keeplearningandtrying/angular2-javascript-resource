@@ -128,4 +128,8 @@ resources/META-INF/spring.factories
   * https://www.baeldung.com/spring-boot-annotations
   * How java annotation works -https://sylvanassun.github.io/2017/10/15/2017-10-15-JavaAnnotation/#more
   
+  
+  ## Spring boot interview
+  * http://www.ityouknow.com/springboot/2019/07/24/springboot-interview.html
+  
 
