@@ -96,6 +96,29 @@
 * https://www.mkyong.com/tutorials/spring-boot-tutorials/
 * https://www.baeldung.com/spring-boot
 
+## properties
 * https://www.mkyong.com/spring-boot/spring-boot-configurationproperties-example/
 * https://www.mkyong.com/spring/spring-propertysources-example/
+* https://www.baeldung.com/properties-with-spring
+
+## Starter
+* https://www.baeldung.com/spring-boot-custom-starter
+
+## Auto configuration
+* https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-developing-auto-configuration.html
+* https://www.baeldung.com/spring-boot-custom-auto-configuration
+  * https://github.com/eugenp/tutorials/tree/master/spring-boot-autoconfiguration
+  
+resources/META-INF/spring.factories
+* https://github.com/spring-projects/spring-boot/blob/master/spring-boot-project/spring-boot-autoconfigure/src/main/resources/META-INF/spring.factories
+  org.springframework.context.ApplicationContextInitializer
+  org.springframework.context.ApplicationListener
+  org.springframework.boot.autoconfigure.AutoConfigurationImportListener
+  org.springframework.boot.autoconfigure.AutoConfigurationImportFilter
+   org.springframework.boot.autoconfigure.EnableAutoConfiguration
+  org.springframework.boot.diagnostics.FailureAnalyzer
+  org.springframework.boot.autoconfigure.template.TemplateAvailabilityProvider
+ 
+  org.springframework.boot.env.EnvironmentPostProcessor
+  
 
