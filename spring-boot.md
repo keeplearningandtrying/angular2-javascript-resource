@@ -105,6 +105,7 @@
 ## event
 * http://blog.didispace.com/Spring-Boot-2-0-feature-2-ApplicationStartedEvent/
 
+
 ## properties
 * https://www.mkyong.com/spring-boot/spring-boot-configurationproperties-example/
 * https://www.mkyong.com/spring/spring-propertysources-example/
@@ -148,5 +149,6 @@ resources/META-INF/spring.factories
   
   ## Spring boot interview
   * http://www.ityouknow.com/springboot/2019/07/24/springboot-interview.html
+  
   
 
