@@ -133,6 +133,9 @@ resources/META-INF/spring.factories
  
   org.springframework.boot.env.EnvironmentPostProcessor
   
+  ## spring boot starter parent
+  * https://www.javadevjournal.com/spring-boot/spring-boot-starter-parent/
+  
   ## Spring boot annotation
   * https://www.baeldung.com/spring-boot-annotations
   * How java annotation works -https://sylvanassun.github.io/2017/10/15/2017-10-15-JavaAnnotation/#more
