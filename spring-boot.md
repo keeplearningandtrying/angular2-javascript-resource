@@ -119,6 +119,7 @@
 * https://sylvanassun.github.io/2018/01/08/2018-01-08-spring_boot_auto_configure/
 * https://zhuanlan.zhihu.com/p/52530186 (good)
 * https://www.javadevjournal.com/spring-boot/how-spring-boot-auto-configuration-works/ (good)
+* https://www.logicbig.com/tutorials/spring-framework/spring-boot/auto-config-mechanism.html
 * https://www.baeldung.com/spring-boot-custom-auto-configuration
   * https://github.com/eugenp/tutorials/tree/master/spring-boot-autoconfiguration
   
