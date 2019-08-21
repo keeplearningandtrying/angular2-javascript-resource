@@ -94,11 +94,12 @@
 * The magic behind the magic: Spring Boot Autoconfiguration - https://aboullaite.me/the-magic-behind-the-magic-spring-boot-autoconfiguration/
 * https://www.slideshare.net/SpringCentral/webinar-spring-boot-under-the-hood-with-nicholas-frankel
 
-
-* Spring Boot 学习资料汇总 - http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html
+## Spring Boot 学习资料汇总
+* http://www.ityouknow.com/springboot/2015/12/30/springboot-collect.html
 * http://www.ityouknow.com/spring-boot.html
 * https://www.mkyong.com/tutorials/spring-boot-tutorials/
 * https://www.baeldung.com/spring-boot
+* https://www.javadevjournal.com/spring-boot/
 
 ## event
 * http://blog.didispace.com/Spring-Boot-2-0-feature-2-ApplicationStartedEvent/
