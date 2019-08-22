@@ -101,6 +101,7 @@
 * https://www.baeldung.com/spring-boot
 * https://www.javadevjournal.com/spring-boot/
 * https://www.logicbig.com/tutorials/spring-framework/spring-boot.html
+* https://howtodoinjava.com/spring-boot-tutorials/
 
 ## event
 * http://blog.didispace.com/Spring-Boot-2-0-feature-2-ApplicationStartedEvent/
