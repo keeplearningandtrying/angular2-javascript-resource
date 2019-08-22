@@ -115,6 +115,10 @@
 ## Starter
 * https://www.baeldung.com/spring-boot-custom-starter
 
+## Spring Enable* annotation 
+* Spring Enable* annotation - writing a custom Enable annotation  - http://www.java-allandsundry.com/2015/04/spring-enable-annotation-writing-custom.html
+* http://blog.fawnanddoug.com/2012/08/how-those-spring-enable-annotations-work.html
+
 ## Auto configuration
 * https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-developing-auto-configuration.html
 * https://sylvanassun.github.io/2016/07/29/2016-07-29-Spring-boot-autoconfigure/ (good)
