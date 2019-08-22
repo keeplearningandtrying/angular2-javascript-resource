@@ -115,6 +115,9 @@
 ## Starter
 * https://www.baeldung.com/spring-boot-custom-starter
 
+## ing Enable* annotation 
+* ring Enable* annotation - writing a custom Enable annotation  - http://www.java-allandsundry.com/2015/04/spring-enable-annotation-writing-custom.html
+
 ## Auto configuration
 * https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-developing-auto-configuration.html
 * https://sylvanassun.github.io/2016/07/29/2016-07-29-Spring-boot-autoconfigure/ (good)
