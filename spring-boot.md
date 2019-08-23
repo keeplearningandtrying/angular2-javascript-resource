@@ -150,6 +150,9 @@ resources/META-INF/spring.factories
   
   ## Spring boot interview
   * http://www.ityouknow.com/springboot/2019/07/24/springboot-interview.html
+  * https://medium.com/@anilkkurmi/spring-boot-interview-questions-74d6aa0ee746
+  * https://practiceoverflow.com/take-test/sieWV1ypGBd7iBKoT3Nu/Spring-Boot-IQ-Test-2019:-contains-top-20-questions-to-practice-your-Spring-boot-knowledge
+  
   
   
 
