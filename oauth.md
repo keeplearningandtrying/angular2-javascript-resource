@@ -6,3 +6,8 @@
 
 * How to Secure REST API using Spring Security and OAuth2 - http://sivatechlab.com/secure-rest-api-using-spring-security-oauth2/
 * How to Secure REST API using Spring Security OAuth2 and JWT  - http://sivatechlab.com/secure-rest-api-using-spring-security-oauth2-jwt/
+
+* https://www.tutorialspoint.com/spring_boot/spring_boot_oauth2_with_jwt.htm#
+
+* https://github.com/spring-projects/spring-boot/tree/2.1.x/spring-boot-samples/spring-boot-sample-oauth2-resource-server
+* https://github.com/spring-projects/spring-boot/tree/2.1.x/spring-boot-samples/spring-boot-sample-oauth2-client/
