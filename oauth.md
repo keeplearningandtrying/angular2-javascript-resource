@@ -11,3 +11,6 @@
 
 * https://github.com/spring-projects/spring-boot/tree/2.1.x/spring-boot-samples/spring-boot-sample-oauth2-resource-server
 * https://github.com/spring-projects/spring-boot/tree/2.1.x/spring-boot-samples/spring-boot-sample-oauth2-client/
+* https://www.tutorialspoint.com/spring_boot/spring_boot_google_oauth2_sign_in.htm
+
+* https://github.com/habuma/spring-security-oauth2-jwt-example
