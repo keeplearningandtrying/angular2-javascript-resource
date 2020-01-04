@@ -4,3 +4,5 @@
 * http://www.java2s.com/Tutorials/Java/Java_Lambda/index.htm
 * http://www.java2s.com/Tutorials/Java/Java_Stream/index.htm
 * http://www.java2s.com/Tutorials/Java/Java_Date_Time/index.htm
+
+* Java Collectors example - http://www.java2s.com/Tutorials/Java/java.util.stream/Collectors/index.htm
